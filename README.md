@@ -7,3 +7,16 @@ This task involves creating and setting up the database for the internship proje
 ### Steps:
 1. Run the SQL script in `Database_Setup/Database_Creation.sql` to create the database.
 2. Verify the database is set up correctly.
+
+## File Description
+
+- **README.md**: This file provides an overview of the internship task, including descriptions of tasks, steps, and project structure.
+- **Database_Setup/Database_Creation.sql**: SQL script containing the commands to create the database tables, such as the Student table, and set up the initial schema.
+
+## Next Steps
+
+After completing the database setup:
+1. Develop the application code to connect to the database.
+2. Implement CRUD operations for the Student table.
+3. Test the application functionality.
+4. Proceed to the next internship task as assigned.
