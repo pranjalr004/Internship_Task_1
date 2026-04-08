@@ -15,6 +15,7 @@ This task involves creating and setting up the database for the internship proje
 - **Queries/Select_Query.sql**: SQL query file used to select and display all records from the Student table, demonstrating successful retrieval of stored data.
 - **Queries/Average_Score.sql**: SQL query file that calculates the average score for each subject, useful for analyzing overall academic performance across records.
 - **Queries/Maximum_Score.sql**: SQL query file that identifies the student with the highest total score across all subjects (Math, English, and Science), providing insights into top academic performance.
+- **Queries/Count_Students.sql**: SQL query file that counts the number of students in each grade, ordered by the student count in descending order, useful for understanding grade distribution.
 
 ## Next Steps
 
@@ -23,4 +24,5 @@ After completing the database setup:
 2. Implement CRUD operations for the Student table.
 3. Test the application functionality.
 4. Run the Maximum_Score.sql query to display the student with the highest total score.
-5. Proceed to the next internship task as assigned.
+5. Run the Count_Students.sql query to count students by grade.
+6. Proceed to the next internship task as assigned.
