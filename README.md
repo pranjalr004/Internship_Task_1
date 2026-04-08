@@ -12,6 +12,7 @@ This task involves creating and setting up the database for the internship proje
 
 - **README.md**: This file provides an overview of the internship task, including descriptions of tasks, steps, and project structure.
 - **Database_Setup/Database_Creation.sql**: SQL script containing the commands to create the database tables, such as the Student table, and set up the initial schema.
+- **Queries/Select_Query.sql**: SQL query file used to select and display all records from the Student table, demonstrating successful retrieval of stored data.
 
 ## Next Steps
 
