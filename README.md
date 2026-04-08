@@ -19,6 +19,7 @@ This task involves creating and setting up the database for the internship proje
 - **Queries/Grouping.sql**: SQL query file that computes average Math, English, and Science scores grouped by gender, useful for comparing performance by student gender.
 - **Queries/Top_Students.sql**: SQL query file that selects students whose total score is above the class average, ordered by highest total score, useful for identifying strong performers above average.
 - **Queries/Condition.sql**: SQL query file that selects all students with a Math score greater than 80, useful for identifying students who are excelling in Math.
+- **Queries/updation_query.sql**: SQL script that updates the grade to `11A` for the student named `Amit Sharma` and then selects all records to verify the update.
 
 ## Next Steps
 
@@ -31,4 +32,5 @@ After completing the database setup:
 6. Run the Grouping.sql query to compare average subject scores by gender.
 7. Run the Top_Students.sql query to identify students with total scores above the class average.
 8. Run the Condition.sql query to identify students with Math scores above 80.
-9. Proceed to the next internship task as assigned.
+9. Run the updation_query.sql query to update the grade for a specific student and verify the result.
+10. Proceed to the next internship task as assigned.
