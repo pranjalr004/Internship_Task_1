@@ -1,0 +1,1 @@
+SELECT AVG(MathScore) as Avg_Math_Score, AVG(ScienceScore) as Avg_Science_Score, AVG(EnglishScore) as Avg_English_Score FROM Students;
